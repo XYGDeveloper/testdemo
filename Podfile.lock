@@ -1,0 +1,107 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - Aspects (1.4.1)
+  - BonMot (5.5.1)
+  - CocoaAsyncSocket (7.6.5)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - PromisesObjC (1.2.12)
+  - Protobuf (3.15.8)
+  - Result (4.1.0)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - SensorsAnalyticsSDK (2.6.8):
+    - SensorsAnalyticsSDK/Core (= 2.6.8)
+  - SensorsAnalyticsSDK/AutoTrack (2.6.8):
+    - SensorsAnalyticsSDK/Common
+  - SensorsAnalyticsSDK/Common (2.6.8)
+  - SensorsAnalyticsSDK/Core (2.6.8):
+    - SensorsAnalyticsSDK/Visualized
+  - SensorsAnalyticsSDK/Visualized (2.6.8):
+    - SensorsAnalyticsSDK/AutoTrack
+  - SnapKit (5.0.1)
+  - SSZipArchive (2.2.3)
+  - SwiftSignatureView (2.2.3)
+  - SwiftyJSON (5.0.0)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - AFNetworking (= 4.0.1)
+  - Alamofire (= 4.9.1)
+  - AlamofireImage (= 3.6.0)
+  - Aspects (= 1.4.1)
+  - BonMot (= 5.5.1)
+  - CocoaAsyncSocket (= 7.6.5)
+  - FMDB (= 2.7.5)
+  - PromisesObjC (= 1.2.12)
+  - Protobuf (= 3.15.8)
+  - Result (= 4.1.0)
+  - SDWebImage (= 5.0.6)
+  - SensorsAnalyticsSDK (= 2.6.8)
+  - SnapKit (= 5.0.1)
+  - SSZipArchive (= 2.2.3)
+  - SwiftSignatureView (= 2.2.3)
+  - SwiftyJSON (= 5.0.0)
+  - Swinject (= 2.7.1)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Alamofire
+    - AlamofireImage
+    - Aspects
+    - BonMot
+    - CocoaAsyncSocket
+    - FMDB
+    - PromisesObjC
+    - Protobuf
+    - Result
+    - SDWebImage
+    - SensorsAnalyticsSDK
+    - SnapKit
+    - SSZipArchive
+    - SwiftSignatureView
+    - SwiftyJSON
+    - Swinject
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  BonMot: 0d179476725af81f622a6d9f660f43048070016a
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
+  Protobuf: adb85cd18a15bd1a777c158af9fd6e612a0e6d69
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  SensorsAnalyticsSDK: fdb4406623d56c88e9d45a51b57903426a563b18
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
+  SwiftSignatureView: 5bbee04ed6c0a18aa578ad56d3d157cf9a042a4d
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 49e9ab2b0f25192ad22ae70d1b1934246003c6c3
+
+COCOAPODS: 1.10.1
